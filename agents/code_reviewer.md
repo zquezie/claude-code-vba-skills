@@ -1,7 +1,7 @@
 ---
 name: vba_code_reviewer
 description: Senior VBA code review specialist. Use after writing or modifying VBA to review for security, quality, performance, and best practices before committing or releasing.
-model: opus
+model: sonnet
 tools: Read, Grep, Glob, Ls, Cat
 ---
 
