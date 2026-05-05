@@ -1,7 +1,7 @@
 ---
 name: vba_planner
 description: Expert planning specialist for VBA projects (Excel/Word/Access/Outlook/PowerPoint). Use for feature implementation, architectural changes, or complex refactoring. Automatically activated for planning tasks.
-model: opus
+model: sonnet
 tools: Read, Grep, Glob, Ls, Cat
 ---
 
